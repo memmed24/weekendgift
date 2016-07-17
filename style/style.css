@@ -1,0 +1,145 @@
+body{
+	padding: 0px;
+	margin: 0px;
+	font-family: 'Open Sans', sans-serif;
+}
+.white{
+	color: white;
+}
+.lightgray{
+	background-color: rgb(245,245,245);
+}
+.gray{
+	color: rgb(153,153,153);
+}
+.cyan{
+	color: rgb(52,152,219);
+}
+.floatLeft{
+	float: left;
+}
+.height{
+	height: 311px;
+	text-align: center;
+}
+.header{
+	height: 40px;
+	width: 100%;
+	background-color: rgb(34,34,34);
+}
+.header1{
+	width: calc(50% - 80px);
+	height: 40px;
+	margin-left: 10%;
+}
+.fa-shield1{
+	font-size: 30px;
+	margin-top: 5px;
+}
+.header1 ul{
+	height: 40px;
+	font-size: 15px;
+    margin-left: -20px;
+}
+.header1 ul li{
+	height: 40px;
+	line-height: 2.5;
+	display: inline-block;
+	padding-left: 15px;
+	padding-right: 15px;
+}
+.header1 ul li:hover{
+	cursor: pointer;
+	background-color: black;
+	color: white;
+}
+.main1{
+	height: 549px;
+	width: 100%;
+	background-image: url('../images/header_bg.jpg');
+	background-repeat: no-repeat;
+	background-position: center center;
+	background-size: cover;
+	text-align: center;
+}
+.inMain{
+	padding-top: 100px;
+}
+.fa-shield2{
+	font-size: 110px;
+}
+.inMain p{
+	font-size: 40px;
+}
+.height i{
+	font-size: 70px;
+}
+.height p{
+	color: black;
+}
+.padding{
+	padding: 17px;
+}
+.main2{
+	height: 442px;
+	width: 100%;
+}
+.main21{
+	height:134px;
+	border-bottom: 1px solid rgb(204, 204, 204)
+}
+.main21 span{
+	font-size: 45px;
+	line-height: 4;
+	color: rgb(51,51,51); 
+}
+.main22{
+	margin-top: 80px;
+}
+.main3{
+    height: 349px;
+    width: 100%;
+    background-image: url('../images/bg/divider1.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;	
+    text-align: center;
+}
+.main3 h1{
+	margin-top: 130px;
+}
+.main4{
+	height: 1029px;
+}
+.main41{
+	height: 514px;
+}
+.main411, .main412{
+	text-align: center;
+	height: 117px;
+	border-bottom: 1px solid rgb(204, 204, 204);
+}
+.main411 span{
+	font-size: 31px;
+	line-height: 5;
+}
+.col-md-12 p{
+	padding-top: 20px;
+}
+.main412 span{
+	font-size: 31px;
+	line-height: 5;
+}
+img{
+	margin-top: 30px;
+}
+.footer{
+	height: 100px;
+	background-color: rgb(43,43,43);
+	font-size: 20px;
+	line-height: 5;
+	text-align: center;
+}
+.footer span{
+	color: rgb(49,138,169);
+}
